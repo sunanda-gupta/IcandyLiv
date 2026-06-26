@@ -501,7 +501,6 @@ footer {
 
 .blog-post .post-image {
   width: 100%;
-  aspect-ratio: 16/9;
   margin: var(--space-md) 0;
 }
 
